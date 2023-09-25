@@ -1,19 +1,9 @@
-﻿Console.WriteLine("BEM VINDO A PIZZARIA LASABOR");
-Console.WriteLine();
-
-Console.WriteLine("ESCOLA UMA OPÇÃO: ");
-Console.WriteLine("1/Adcionar Pizza. ");
-Console.WriteLine("2/Listar Pizza. ");
-Console.WriteLine("3/Criar novo pedido. ");
-Console.WriteLine("4/Listar pedido. ");
-
-var opcao = Console.ReadLine();
-var conversaoOpcao = Convert.ToDouble(opcao);
-Console.WriteLine($"Opção: {conversaoOpcao}");
+﻿ Console.WriteLine("BEM VINDO A PIZZARIA LASABOR \n ESCOLA UMA OPÇÃO: \n 1/Adcionar Pizza. \n 2/Listar Pizza. \n 3/Criar novo pedido. \n 4/Listar pedido.");
+var opcoes = double.Parse(Console.ReadLine());
 
 //Estrutura condicional
 
-if (conversaoOpcao == 1)
+if (opcoes == 1)
 {
     //dados pizza
 Console.WriteLine("Digite o nome da pizza: ");
@@ -49,7 +39,7 @@ Console.WriteLine("Nome da pizza: " + piz.Nome);
 Console.WriteLine("Preço da pizza: " + piz.Preco);
 Console.WriteLine("Sabor da pizza: " + piz.Sabor);
 
-}else if (conversaoOpcao ==2)
+}else if (opcoes ==2)
 {
     //lista
     Console.WriteLine("CARDAPIO!");

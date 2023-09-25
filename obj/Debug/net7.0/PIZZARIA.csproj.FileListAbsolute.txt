@@ -12,3 +12,17 @@ C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA\obj\Debug\net7.0\refint\PIZZ
 C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA\obj\Debug\net7.0\PIZZARIA.pdb
 C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA\obj\Debug\net7.0\PIZZARIA.genruntimeconfig.cache
 C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA\obj\Debug\net7.0\ref\PIZZARIA.dll
+C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA3\bin\Debug\net7.0\PIZZARIA.exe
+C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA3\bin\Debug\net7.0\PIZZARIA.deps.json
+C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA3\bin\Debug\net7.0\PIZZARIA.runtimeconfig.json
+C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA3\bin\Debug\net7.0\PIZZARIA.dll
+C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA3\bin\Debug\net7.0\PIZZARIA.pdb
+C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA3\obj\Debug\net7.0\PIZZARIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA3\obj\Debug\net7.0\PIZZARIA.AssemblyInfoInputs.cache
+C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA3\obj\Debug\net7.0\PIZZARIA.AssemblyInfo.cs
+C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA3\obj\Debug\net7.0\PIZZARIA.csproj.CoreCompileInputs.cache
+C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA3\obj\Debug\net7.0\PIZZARIA.dll
+C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA3\obj\Debug\net7.0\refint\PIZZARIA.dll
+C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA3\obj\Debug\net7.0\PIZZARIA.pdb
+C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA3\obj\Debug\net7.0\PIZZARIA.genruntimeconfig.cache
+C:\Users\jesyl\OneDrive\Documentos\cursojs\PIZZARIA3\obj\Debug\net7.0\ref\PIZZARIA.dll

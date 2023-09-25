@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jesyl\\OneDrive\\Documentos\\cursojs\\PIZZARIA\\PIZZARIA.csproj": {}
+    "c:\\Users\\jesyl\\OneDrive\\Documentos\\cursojs\\PIZZARIA3\\PIZZARIA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jesyl\\OneDrive\\Documentos\\cursojs\\PIZZARIA\\PIZZARIA.csproj": {
+    "c:\\Users\\jesyl\\OneDrive\\Documentos\\cursojs\\PIZZARIA3\\PIZZARIA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jesyl\\OneDrive\\Documentos\\cursojs\\PIZZARIA\\PIZZARIA.csproj",
+        "projectUniqueName": "c:\\Users\\jesyl\\OneDrive\\Documentos\\cursojs\\PIZZARIA3\\PIZZARIA.csproj",
         "projectName": "PIZZARIA",
-        "projectPath": "C:\\Users\\jesyl\\OneDrive\\Documentos\\cursojs\\PIZZARIA\\PIZZARIA.csproj",
+        "projectPath": "c:\\Users\\jesyl\\OneDrive\\Documentos\\cursojs\\PIZZARIA3\\PIZZARIA.csproj",
         "packagesPath": "C:\\Users\\jesyl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jesyl\\OneDrive\\Documentos\\cursojs\\PIZZARIA\\obj\\",
+        "outputPath": "c:\\Users\\jesyl\\OneDrive\\Documentos\\cursojs\\PIZZARIA3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jesyl\\AppData\\Roaming\\NuGet\\NuGet.Config"
